@@ -1,4 +1,4 @@
-# Astro Development GitHub
+# 🍪 CookieBot
 
 Welcome to the offical Astro Development open-source GitHub. Here will be all the tutorials from the YouTube tutorials for Discord Bots, Websites, Games, ect.
 
